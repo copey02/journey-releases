@@ -1,0 +1,85 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Journey</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Mon, 12 Oct 2026 13:17:55 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>68</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.0</h2><ul>
+<li>publish.sh: seed an empty releases repo; keep undo until the release exists</li>
+<li>publish.sh: tolerate a release with no new commits</li>
+<li>publish.sh: undo the version bump when a step fails before publishing</li>
+<li>release.sh: notarize with the asc API key directly</li>
+<li>scripts/publish.sh: one command to ship a self-updating release</li>
+<li>perf.sh --settle: end on a blank page before measuring memory</li>
+<li>perf.sh: break down Journey's own memory by category</li>
+<li>Pages load ~30% faster: element hiding for the sites you visit, not every site</li>
+<li>Faster launch and new tabs: lazy restored-tab configurations, thumbnails decoded off the main thread</li>
+<li>Performance harness; cheaper language detection; Spotlight only when bookmarks change</li>
+<li>Smoother automatic Picture in Picture</li>
+<li>Picture in Picture, and automatic Picture in Picture when switching away</li>
+<li>Web notifications; Sparkle for updates; smoke test signed like the shipped app</li>
+<li>Release builds: Developer ID signing and notarization that works end to end</li>
+<li>File > Import From Browser...: Chrome, Brave, Edge, Vivaldi, Arc and Safari</li>
+<li>Translate pages on this Mac (Apple's Translation framework)</li>
+<li>Settings > Websites: Safari's Auto-Play choice</li>
+<li>AutoFill: Contacts card and credit cards (Settings > AutoFill)</li>
+<li>Interaction tests for mouse drags and menus; fix tab tear-off and duplicate extensions</li>
+<li>Journey Dev identity, Release smoke test, and one install script</li>
+<li>Settings > General: Safari 5's "Default web browser" pop-up</li>
+<li>Fix the Release build: tabList was inside the Debug-only helpers</li>
+<li>Activity window (Window > Activity, Option-Command-A)</li>
+<li>Top Sites: Edit mode, pinning, removing, and three sizes</li>
+<li>SnapBack</li>
+<li>release.sh --development: sign with Apple Development, skip notarization</li>
+<li>Reader fonts and themes</li>
+<li>Safari 4/5-style error page</li>
+<li>Drop links on the tab strip; drag the site icon out of the address field</li>
+<li>History grouped by day; Cover Flow shows drawn cards again</li>
+<li>Extension context-menu items and keyboard commands</li>
+<li>Strong password suggestions, CSV password import, and a password list</li>
+<li>Settings > Websites: per-site zoom, camera/microphone and content-blocker choices</li>
+<li>Find bar shows the match count ("3 of 130 matches")</li>
+<li>Search suggestions and engine switching in the search field</li>
+<li>EasyList and EasyPrivacy blocking, with element hiding</li>
+<li>Unload idle background tabs and relieve memory pressure</li>
+<li>Downloads that persist, resume and drag out</li>
+<li>Bookmark folders, Bookmarks Bar overflow, drag reorder and link drops</li>
+<li>Tab overflow menu and tab context menu</li>
+<li>HTTP logins, certificate exceptions, and Safari 5's lock</li>
+<li>Release pipeline: Developer ID signing, notarization, DMG</li>
+<li>Develop menu (Settings › Advanced › Show Develop menu)</li>
+<li>Cover Flow: adopt iTracks Classic's Metal renderer</li>
+<li>Cover Flow in the Library (Safari 4)</li>
+<li>Measure launch time and memory; README features and numbers</li>
+<li>Reading List and VoiceOver support for the tab strip</li>
+<li>Per-site zoom memory and camera/microphone prompts</li>
+<li>Safari 4/5 status bar (⌘/)</li>
+<li>Profiles: separate cookies and website data per window</li>
+<li>Drag tabs out of a window, or into another one</li>
+<li>Bookmarks library, Bookmarks menu, import/export, Spotlight</li>
+<li>Era-styled alert sheets and a Journey app icon</li>
+<li>Password AutoFill backed by the macOS Keychain</li>
+<li>Drag tabs to reorder them</li>
+<li>Private Browsing windows (⇧⌘N)</li>
+<li>Milestone 4: site icons, Share, Mail, Handoff, Dock menu, Services, AppleScript</li>
+<li>Era-styled Settings and Downloads, with Aqua controls</li>
+<li>Safari Web Extensions via WKWebExtensionController</li>
+<li>Reader (Safari 5 style) built on Mozilla Readability</li>
+<li>Native traffic lights and corners; era-styled dark mode</li>
+<li>Replace modern controls with custom Snow Leopard–era chrome</li>
+<li>Content blocking, link tracking protection, isolated test profile (WIP)</li>
+<li>Fix Settings crash; make snapshot harness reliable</li>
+<li>Milestone 2: history, autocomplete, Top Sites, session restore, Downloads, Settings</li>
+<li>Milestone 1: WebKit browser foundation with Safari 5 interface</li>
+<li>Initial commit</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.0/Journey-0.2.0.zip" length="4428408" type="application/octet-stream" sparkle:edSignature="hO2V6jAsnHMZw8JwDJZ9nIuK/wXTRdC219FaHsEXPQ1iFzNV7dIOzIjpP9yEd8kNCzTXDFXvGp5WfpWIVlErAg=="/>
+        </item>
+    </channel>
+</rss>
