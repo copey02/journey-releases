@@ -3,6 +3,43 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.1</title>
+            <pubDate>Mon, 12 Oct 2026 18:28:17 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>94</sparkle:version>
+            <sparkle:shortVersionString>0.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.1</h2><ul>
+<li>Fix updates failing to install: expand the bundle ID in signed entitlements</li>
+<li>Downloads button in the toolbar; new downloads fly into it</li>
+<li>Reader slides up over a darker page, and back down to close</li>
+<li>Remove an unused test page (YouTube refuses embeds on local pages)</li>
+<li>Block YouTube's ads</li>
+<li>Close the empty space hidden ads leave behind</li>
+<li>Edit › Copy Clean Link (⇧⌘C): the page's address without tracking parameters</li>
+<li>A click into the address field selects the whole address</li>
+<li>History and Top Sites keep a site's title and picture over its error pages</li>
+<li>Reader leaves out charts drawn from positioned boxes</li>
+<li>Downloads: a quick download's size no longer shows as "Zero KB"</li>
+<li>Activity: Snow Leopard's solid disclosure triangles instead of today's chevrons</li>
+<li>Settings › Advanced › Check for updates automatically</li>
+<li>Window titles for Top Sites, Bookmarks and History; no blank thumbnails</li>
+<li>Docs: launch is ~200 ms to the window's first frame</li>
+<li>Launch timeline: a mark for the first window's first frame</li>
+<li>docs/performance.md: hover preconnect measured, no gain in WebKit</li>
+<li>Filter list conversion 4x faster: byte searches, not String's</li>
+<li>perf.sh --new-tabs; first-paint cost of element hiding documented</li>
+<li>Bookmarks › Add Bookmarks for These Tabs…: the window's pages as a folder in the Bar</li>
+<li>File › Open File…, Save As… and Page Setup…; Edit's text submenus</li>
+<li>Rule lists: network rules first, lists converted at once, halves versioned apart</li>
+<li>Picture in Picture: a video put back in its page keeps playing</li>
+<li>Element hiding on every site, now that it costs nothing measurable</li>
+<li>Element hiding: matched once per page, and generic rules only in the page</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.1/Journey-0.2.1.zip" length="4527080" type="application/octet-stream" sparkle:edSignature="fCCoonz6yT3X/eSzUsK3dLC5RQrrgK/ucrb/22wZAPW0YAsgLTX/GhVGGMBT9q8wru/yHv2pgvwiNt2MS2pwDw=="/>
+        </item>
+        <item>
             <title>0.2.0</title>
             <pubDate>Mon, 12 Oct 2026 13:17:55 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
