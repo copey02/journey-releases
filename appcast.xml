@@ -3,6 +3,24 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Mon, 12 Oct 2026 19:44:02 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>101</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.2</h2><ul>
+<li>Merge polish: releases, performance, and issues #2–#10 (#11)</li>
+<li>Sidebar for bookmarks and the Reading List</li>
+<li>A restored window shows its page's address, with the page focused</li>
+<li>Websites' appearance, and dark mode for websites that have none</li>
+<li>Pinned tabs</li>
+<li>Merge polish: Safari 4/5 behaviours, privacy features and era details (#1)</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.2/Journey-0.2.2.zip" length="4624639" type="application/octet-stream" sparkle:edSignature="MZDXfb87x4ZYMfi9GL2cieXqh+631aJwocMN3DQmVuL4CCaX910z0DRzoK0oKe99OgLKkoY/Eo+NidRp9MvaDQ=="/>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Mon, 12 Oct 2026 18:28:17 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
