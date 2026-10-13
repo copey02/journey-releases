@@ -3,6 +3,21 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.5</title>
+            <pubDate>Mon, 12 Oct 2026 23:00:50 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>112</sparkle:version>
+            <sparkle:shortVersionString>0.2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.5</h2><ul>
+<li>Sidebar: no dark strip at the page's edge as it widens</li>
+<li>Sidebar: the page reflows as the sidebar slides</li>
+<li>Sidebar: the page keeps its width while it slides</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.5/Journey-0.2.5.zip" length="4644168" type="application/octet-stream" sparkle:edSignature="FvF/7FqPbWnNR8FboF3sHiPvs+kxPN9ZVPk+USEFbPYjv4sohCCPPGvepCX+YgOqZxXwdZHaH7jec7aFHYtbAA=="/>
+        </item>
+        <item>
             <title>0.2.4</title>
             <pubDate>Mon, 12 Oct 2026 21:32:24 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
