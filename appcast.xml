@@ -3,6 +3,19 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.3</title>
+            <pubDate>Mon, 12 Oct 2026 20:30:58 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>103</sparkle:version>
+            <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.3</h2><ul>
+<li>Leave the App Sandbox, so apps downloaded with Journey can be opened</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.3/Journey-0.2.3.zip" length="4635788" type="application/octet-stream" sparkle:edSignature="Id6e/Uww5Ly02L0HLI/FOmXSYyR0FlRX2M+SnNALhHNwMRX+Fe0Xf2ep2tcYBWFxDWM5/toydrso5NmKu1URCQ=="/>
+        </item>
+        <item>
             <title>0.2.2</title>
             <pubDate>Mon, 12 Oct 2026 19:44:02 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
