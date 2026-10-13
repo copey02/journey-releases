@@ -3,6 +3,26 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.8</title>
+            <pubDate>Tue, 13 Oct 2026 16:55:56 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>140</sparkle:version>
+            <sparkle:shortVersionString>0.2.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.8</h2><ul>
+<li>Status bar: a bolt shield, not sparkles, marks a cleaned link</li>
+<li>Ad blocking: hide Google's One Tap "Sign in with Google" prompt</li>
+<li>Link cleaning everywhere: in pages, copies, in-page addresses and what's saved</li>
+<li>Top Sites: the site's icon beside its name</li>
+<li>Favicons: look harder, store sharper, and fetch on demand</li>
+<li>Toolbar buttons light up under the pointer</li>
+<li>Toolbar: + opens a new tab; Add Bookmark gets a bookmark ribbon</li>
+<li>Sidebar: Bookmarks | Reading List as one segmented capsule</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.8/Journey-0.2.8.zip" length="4894413" type="application/octet-stream" sparkle:edSignature="TfEy0HS89Q9qhqM7xnmI5yfDtsfGMcYBSaSWiyLVE5oNynSDR4kfhQ8dwoJKdhQoqudlmZAS96Jqyo2MkKsLDw=="/>
+        </item>
+        <item>
             <title>0.2.6</title>
             <pubDate>Tue, 13 Oct 2026 12:19:43 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
