@@ -3,6 +3,26 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.9</title>
+            <pubDate>Wed, 14 Oct 2026 05:46:18 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>149</sparkle:version>
+            <sparkle:shortVersionString>0.2.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.9</h2><ul>
+<li>Top Sites: one curved wall, reflected in the floor, as in Safari 4</li>
+<li>⌃Tab: switch tabs in recently used order, with a ⌘Tab-style switcher</li>
+<li>Tab overview: every tab at once, laid out as Exposé lays out windows</li>
+<li>Ad blocking: hide "disable your ad blocker" notices, and what they leave behind</li>
+<li>Link cleaning, part 2: share, referral and (if asked) affiliate parameters</li>
+<li>Bookmarks: suggest a clean name, the site's on a homepage, the headline on an article</li>
+<li>Chrome: SF Symbols for the toolbar, fields, bars and tab strip</li>
+<li>Reader: offer it only for real articles, not stores, searches or homepages</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.9/Journey-0.2.9.zip" length="5200312" type="application/octet-stream" sparkle:edSignature="iy2BbZ8csd34vQ0o0l3Oo9yUN/pZJELTedUseMps0IwRkJ84ssfc7VT1eaUAXdKDXmpv5YwpoJmoCeZQhp7zBw=="/>
+        </item>
+        <item>
             <title>0.2.8</title>
             <pubDate>Tue, 13 Oct 2026 16:55:56 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
