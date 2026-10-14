@@ -3,6 +3,21 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.10</title>
+            <pubDate>Wed, 14 Oct 2026 07:13:37 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>153</sparkle:version>
+            <sparkle:shortVersionString>0.2.10</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.10</h2><ul>
+<li>Tab overview: pages as Exposé shows windows; a new tab is pictured as Top Sites</li>
+<li>Top Sites: edge to edge, drawn with Metal</li>
+<li>⌃Tab: the window's key, every time, even with a page that keeps its keys</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.10/Journey-0.2.10.zip" length="5223890" type="application/octet-stream" sparkle:edSignature="giD9rvDxDL4D6a78ZtRpHse1iy9xuSvtcBwb34R2ALqrp6tL+18a86bI+6Cmnt4efIqyxxkJB0MNThT1oOwMBg=="/>
+        </item>
+        <item>
             <title>0.2.9</title>
             <pubDate>Wed, 14 Oct 2026 05:46:18 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
