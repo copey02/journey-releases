@@ -3,6 +3,26 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.12</title>
+            <pubDate>Wed, 14 Oct 2026 21:58:02 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>167</sparkle:version>
+            <sparkle:shortVersionString>0.2.12</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.12</h2><ul>
+<li>Darkening: lines stay lines, and real pages read right</li>
+<li>Merge polish: Top Sites thumbnails fly out of the wall; the tab overview opens under the fingers (#42)</li>
+<li>Merge polish: edge-to-edge Metal Top Sites, Exposé-style tab overview, reliable ⌃Tab (#41)</li>
+<li>Merge polish: real-article Reader, SF Symbols, clean bookmark names, link cleaning part 2, ad-blocker notices, tab overview, ⌃Tab, curved Top Sites (#40)</li>
+<li>Merge polish: toolbar polish, sharper favicons, link cleaning everywhere, no One Tap (#33)</li>
+<li>Merge polish: darkened websites are dark from the first paint (#20)</li>
+<li>Merge polish: pages start loading before they're asked for (#14)</li>
+<li>Merge polish: the page reflows smoothly as the sidebar slides (#13)</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.12/Journey-0.2.12.zip" length="5304749" type="application/octet-stream" sparkle:edSignature="1ThFleyGc+wi7CbOSkeO/JTpgdBKe+zY33RpM/RWzluW7l1o2PZV+S2nfmnYt0KtUfrNs7cGz+YQM9xJY9oUBw=="/>
+        </item>
+        <item>
             <title>0.2.11</title>
             <pubDate>Wed, 14 Oct 2026 11:19:36 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
