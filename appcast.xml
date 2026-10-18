@@ -3,6 +3,20 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.14</title>
+            <pubDate>Sat, 17 Oct 2026 20:13:23 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>173</sparkle:version>
+            <sparkle:shortVersionString>0.2.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.14</h2><ul>
+<li>Passwords from Passcodes: fill, codes, generator and saves through its browser bridge</li>
+<li>Merge darkening: a site's own dark mode comes first (#44)</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.14/Journey-0.2.14.zip" length="5414377" type="application/octet-stream" sparkle:edSignature="pTCuyRIDmnjJbMarYooG+zWc0O7c8YAP9DqeCymw6IWWiexCbH6Ft7qsAJ++9RZuIgP2NnB+u28GgEOUlvRFAQ=="/>
+        </item>
+        <item>
             <title>0.2.13</title>
             <pubDate>Thu, 15 Oct 2026 07:38:52 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
