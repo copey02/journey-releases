@@ -3,6 +3,26 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.15</title>
+            <pubDate>Wed, 28 Oct 2026 22:15:45 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>182</sparkle:version>
+            <sparkle:shortVersionString>0.2.15</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.15</h2><ul>
+<li>Merge passcodes into the 0.2.15 release</li>
+<li>Reach pinned sites from a Snow Leopard Dock on the window's edge (#46)</li>
+<li>Merge polish: closed windows, tab audio, Reader cleanup, PDF Save As (#45)</li>
+<li>Top Sites: Edit mode's badges sit apart where tiles stand close</li>
+<li>Reader: no giant blank icons, no repeated byline, no site name in the title</li>
+<li>Tabs: a speaker on a tab playing sound, which mutes it</li>
+<li>Windows: ⇧⌘T reopens a closed window; Move Tab to New Window, Merge All Windows</li>
+<li>Polish: dimmed glyphs, PDF Save As, download folder, dark placeholders</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.15/Journey-0.2.15.zip" length="5638264" type="application/octet-stream" sparkle:edSignature="l+RcTKdNNHF61xaIVLkQdR1gozzZtRSLTCizIITWf62qI8BRV8vXoS9pz5R4XD6pIgjyShdcrWHZ/Th44EQFAA=="/>
+        </item>
+        <item>
             <title>0.2.14</title>
             <pubDate>Sat, 17 Oct 2026 20:13:23 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
