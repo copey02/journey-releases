@@ -3,6 +3,28 @@
     <channel>
         <title>Journey</title>
         <item>
+            <title>0.2.17</title>
+            <pubDate>Thu, 29 Oct 2026 08:03:51 -0500</pubDate>
+            <link>https://github.com/copey02/journey-releases</link>
+            <sparkle:version>184</sparkle:version>
+            <sparkle:shortVersionString>0.2.17</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Journey 0.2.17</h2><ul>
+<li>Merge passcodes into the 0.2.17 release</li>
+<li>Bring the Dock up from the status bar instead of the window's side (#48)</li>
+<li>Stop Journey crashing when the pointer reaches the Dock's edge (#47)</li>
+<li>Reach pinned sites from a Snow Leopard Dock on the window's edge (#46)</li>
+<li>Merge polish: closed windows, tab audio, Reader cleanup, PDF Save As (#45)</li>
+<li>Top Sites: Edit mode's badges sit apart where tiles stand close</li>
+<li>Reader: no giant blank icons, no repeated byline, no site name in the title</li>
+<li>Tabs: a speaker on a tab playing sound, which mutes it</li>
+<li>Windows: ⇧⌘T reopens a closed window; Move Tab to New Window, Merge All Windows</li>
+<li>Polish: dimmed glyphs, PDF Save As, download folder, dark placeholders</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/copey02/journey-releases/releases/download/v0.2.17/Journey-0.2.17.zip" length="5642480" type="application/octet-stream" sparkle:edSignature="zroqNY1k16ke9Ld695OdM4WcShmC7nRmbptPbx1xloKAs/+23j2MV2UENirOw8oAG80/sB+wn1AvdIeqrT2dBw=="/>
+        </item>
+        <item>
             <title>0.2.16</title>
             <pubDate>Wed, 28 Oct 2026 22:42:22 -0500</pubDate>
             <link>https://github.com/copey02/journey-releases</link>
